@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:01:11	116/116	---M-Z	200	added ('OK')	text/plain	etag:%222131-1771446687;gz%22	https://novoacessoseguro.shop/robots.txt		(from )
+15:01:11	7085/7085	---M-Z	200	added ('OK')	text/html	etag:%221bad-698aa455-f302f87a1b5ed5ca;gz%22	https://novoacessoseguro.shop/back4/	C:/Users/gh/Documents/sites/backsofa/novoacessoseguro.shop/back4/index.html	(from )
+15:01:12	331714/331714	---M--	200	added ('OK')	image/png	etag:%2250fc2-698aa33f-dde2810f01fe60ce;;;%22	https://novoacessoseguro.shop/back4/imagem/foto1.png	C:/Users/gh/Documents/sites/backsofa/novoacessoseguro.shop/back4/imagem/foto1.png	(from https://novoacessoseguro.shop/back4/)
